@@ -1,0 +1,7 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f4f4f9;color:#222}
+header{background:#2c3e50;color:#fff;padding:2rem;text-align:center}
+.projects{display:flex;gap:1rem;padding:2rem;flex-wrap:wrap}
+.card{background:#fff;padding:1.5rem;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,.1);flex:1}
+.testimonials{padding:2rem;background:#eee}
+blockquote{font-style:italic;margin:1rem 0}
+footer{text-align:center;padding:1rem;color:#777}
